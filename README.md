@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta002" alt="shivamgupta002" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js,,C#,.NET,SQL**
+- 🌱 I’m currently learning **Next.js,C#,.NET,SQL**
 
 - 👨‍💻 All of my projects are available at [https://shivam-gupta-portfolio.netlify.app/](https://shivam-gupta-portfolio.netlify.app/)
 
