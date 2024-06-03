@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SQL,AWS**
 
-- 👨‍💻 All of my projects are available at [https://shivam-gupta-portfolio.netlify.app/](https://shivam-gupta-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shivam02portfolio.vercel.app/](https://shivam02portfolio.vercel.app/)
 
 - 💬 Ask me about **React.js,Node.js**
 
