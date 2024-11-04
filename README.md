@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta002" alt="shivamgupta002" /></a> </p>
 
-- 🌱 I’m currently learning **C#,ASP.NET**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://shivam02portfolio.vercel.app/](https://shivam02portfolio.vercel.app/)
 
-- 💬 Ask me about **React.js,Node.js**
+- 💬 Ask me about **Data analyst and web developemnt**
 
 - 📫 How to reach me **20shivamgupta02@gmail.com**
 
