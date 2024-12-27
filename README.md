@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta002" alt="shivamgupta002" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Machine learning,AI and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://shivam02portfolio.vercel.app/](https://shivam02portfolio.vercel.app/)
 
