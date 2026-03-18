@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A passionate AI ML Developer from India</h3>
+<h3 align="center">A passionate AI ML Develope</h3>
 <img align="center" alt="coding" width="880" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta002" alt="shivamgupta002" /></a> </p>
