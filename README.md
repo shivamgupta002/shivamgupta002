@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shivam02portfolio.vercel.app/](https://shivam02portfolio.vercel.app/)
 
-- 💬 Ask me about **Data analyst and web developemnt**
+- 💬 Ask me about **Data analyst*
 
 - 📫 How to reach me **20shivamgupta02@gmail.com**
 
