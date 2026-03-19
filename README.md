@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+<h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">AI/ML Enginner from India </h3>
 <img align="center" alt="coding" width="880" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
